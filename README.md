@@ -3,7 +3,7 @@ Personal Utility Repository
 
 ## Getting Started
 
-This repository contains utility methods for various classes that I have found useful for various projects.
+This repository contains utility methods that applicable to various projects.
 
 ## Testing
 
