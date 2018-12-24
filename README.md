@@ -7,7 +7,7 @@ This repository contains utility methods for various classes that I have found u
 
 ## Testing
 
-In Development
+JUnit
 
 ## Built With
 
